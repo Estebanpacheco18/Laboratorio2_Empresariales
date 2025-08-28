@@ -1,3 +1,4 @@
+using Lab2_EstebanPacheco.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Lab2_EstebanPacheco.Controllers
@@ -25,6 +26,13 @@ namespace Lab2_EstebanPacheco.Controllers
             string selectedProduct = list[id];
             list.RemoveAt(id);
             return Ok($"Selected product: {selectedProduct}");
+        }
+    
+        [HttpPost("Add")]
+        public IActionResult Add([FromBody] ProductoDto product)
+        {
+            list.Add(product.Name);
+            return Ok(new { mensaje = "Producto agregado", product });
         }
     }
 }

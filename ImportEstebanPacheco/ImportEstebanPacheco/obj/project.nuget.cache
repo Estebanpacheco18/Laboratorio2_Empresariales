@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ct4sDxfvKDY=",
+  "success": true,
+  "projectFilePath": "D:\\EmpresarialesAvanzadoC#\\Laboratorio2_Empresariales\\ImportEstebanPacheco\\ImportEstebanPacheco\\ImportEstebanPacheco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Asus User\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

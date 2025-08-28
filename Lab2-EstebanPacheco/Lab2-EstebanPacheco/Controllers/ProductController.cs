@@ -29,7 +29,7 @@ namespace Lab2_EstebanPacheco.Controllers
         }
     
         [HttpPost("Add")]
-        public IActionResult Add([FromBody] ProductoDto product)
+        public IActionResult Add([FromBody] ProductDto product)
         {
             list.Add(product.Name);
             return Ok(new { mensaje = "Producto agregado", product });

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportEstebanPacheco", "ImportEstebanPacheco\ImportEstebanPacheco.csproj", "{9B694FA8-5029-4C58-B206-63A05FEFD1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B694FA8-5029-4C58-B206-63A05FEFD1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B694FA8-5029-4C58-B206-63A05FEFD1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B694FA8-5029-4C58-B206-63A05FEFD1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B694FA8-5029-4C58-B206-63A05FEFD1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

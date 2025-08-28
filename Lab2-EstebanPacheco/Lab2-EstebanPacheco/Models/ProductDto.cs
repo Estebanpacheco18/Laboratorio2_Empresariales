@@ -1,6 +1,6 @@
 namespace Lab2_EstebanPacheco.Models;
 
-public class ProductoDto
+public class ProductDto
 {
     public string Name { get; set; }
 }

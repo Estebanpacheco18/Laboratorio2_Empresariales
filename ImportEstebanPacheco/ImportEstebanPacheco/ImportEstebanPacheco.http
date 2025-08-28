@@ -1,0 +1,6 @@
+@ImportEstebanPacheco_HostAddress = http://localhost:5298
+
+GET {{ImportEstebanPacheco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
